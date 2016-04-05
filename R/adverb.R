@@ -1,7 +1,7 @@
 
 adverb_manner <- c(
   "beautifully",
-  "brilliantly",
+  "brilliantly", 
   "bravely",
   "brightly",
   "calmly",
